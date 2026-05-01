@@ -1,2 +1,2 @@
-# monte-carlo-pi-estimator
+# Monte Carlo Pi Estimator
 ITT440 Individual Assignment
